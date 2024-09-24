@@ -1,0 +1,5 @@
+# Ignore Visual Studio IntelliSense files
+*.ipch
+
+# Ignore Visual Studio browse database files
+*.db
